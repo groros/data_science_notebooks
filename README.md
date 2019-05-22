@@ -25,7 +25,7 @@ docker-compose up
 
 your screen will then be populated with messages from jupyter and a url containing a token parameter (ex: https://127.0.0.1:8888/?token=<YOUR_TOKEN_HERE>)
 
-Navigate to (https:127.0.0.1:8888[https:127.0.0.1:8888]
+Navigate to (https:127.0.0.1:8888)[https:127.0.0.1:8888]
 and enter your token.
 
 Once completed you should be up and running with jupyter notebooks
